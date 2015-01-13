@@ -10,7 +10,7 @@ Allows the ability to get quized on by questions from jService(http://jservice.i
 ```
 git clone https://github.com/Naoto-Ida/Jasper-Trivia.git
 ```
-* Copy the Wikipedia.py file from Jasper-Trivia into jasper/client/modules
+* Copy the Trivia.py file from Jasper-Trivia into jasper/client/modules
 
 * Add to __init.py
 ```
