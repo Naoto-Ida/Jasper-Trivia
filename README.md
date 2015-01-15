@@ -25,4 +25,3 @@ YOU: Let's find you a question.
 JASPER: When your teen starts dating, set some rules like this prescribed time to be home, maybe midnight 
 YOU: I AM THE LAW!
 JASPER: You are incorect. It is curfew.
-```
